@@ -11,6 +11,10 @@ https://www.filehorse.com/download-xampp/37764/
 -php artisan migrate
 -php artisan serve
 
+xampp old
+
+https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/7.3.1/
+
 
 
 #api
